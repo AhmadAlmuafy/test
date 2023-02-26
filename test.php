@@ -1,3 +1,3 @@
 <?php 
-
-echo "ahmad" ;
+echo "knona";
+echo "ahmad";
