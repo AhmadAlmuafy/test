@@ -1,3 +1,16 @@
 <?php 
-
-echo "ahmad" ;
+echo "knona";
+echo "knona";
+echo "knona";
+echo "knona";
+echo "knona";
+echo "knona";
+echo "knona";
+echo "knona";
+echo "knona";
+echo "knona";
+echo "knona";
+echo "knona";
+echo "knona";
+echo "knona";
+echo "ahmad";
